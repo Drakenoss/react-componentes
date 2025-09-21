@@ -47,17 +47,13 @@ const MainContent = () => {
             <article className="content-article">
               <h4>Artículo 1</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris.
+                React es una biblioteca de JavaScript de código abierto y el estándar de la industria para crear interfaces de usuario (UI) interactivas, tanto en web como en móviles. Se basa en un modelo de componentes reutilizables, utiliza un DOM virtual para la eficiencia del rendimiento y es conocida por su simplicidad, flexibilidad y un gran ecosistema de herramientas y soporte comunitario. 
               </p>
             </article>
             <article className="content-article">
               <h4>Artículo 2</h4>
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                React permite la creación de componentes reutilizables, algo que, para la fecha de su estreno, era muy innovador. Los componentes facilitan enormemente el desarrollo y el mantenimiento de las páginas y aplicaciones web. Podemos imaginarlos como piezas de un Lego o bloques de un Jenga.
               </p>
             </article>
           </div>
