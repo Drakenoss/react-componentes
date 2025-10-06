@@ -1,4 +1,4 @@
-# react-componentes
+# React-componentes
 
 Configuración inicial de React: Asegúrate de tener Node.js y npm instalados en tu sistema.
 Crea un nuevo proyecto de React utilizando Vite. Navega hasta la carpeta de tu proyecto en la terminal.
