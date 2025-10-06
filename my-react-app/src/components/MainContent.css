@@ -1,0 +1,11 @@
+.main-content {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+  .main-content {
+    padding: 10px;
+  }
+}
